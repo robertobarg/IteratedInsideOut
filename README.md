@@ -1,37 +1,21 @@
-[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
-
-
 # Iterated Inside Out Algorithm
 
-This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [CC BY-NC-SA 4.0 License](LICENSE).
+This archive is distributed under the [CC BY-NC-SA 4.0 License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data
+This the developement repository of the software and data
 that were used in the research reported on in the paper [Iterated Inside Out: a new exact algorithm for the transportation problem](https://doi.org/10.1287/ijoc.2024.0642) by R. Bargetto, F. Della Croce, and R. Scatamacchia.
 
-The snapshot is based on this [GitHub repository](https://github.com/robertobarg/IteratedInsideOut).
-
+You can find the repository snapshot related to the paper in the [IJOC repository](https://github.com/INFORMSJoC/2024.0642).
 
 ## Cite
-To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+If you use the material of this repo, please cite both the paper and the IJOC repo, using their respective DOIs.
 
 https://doi.org/10.1287/ijoc.2024.0642
 
 https://doi.org/10.1287/ijoc.2024.0642.cd
 
-Below is the BibTex for citing this snapshot of the repository.
+You may consider to cite this repo as well.
 
-```
-@misc{iio2024,
-  author =        {Roberto Bargetto and Federico Della Croce and Rosario Scatamacchia},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {Iterated Inside Out: a new exact algorithm for the transportation problem},
-  year =          {2024},
-  doi =           {10.1287/ijoc.2024.0642.cd},
-  url =           {https://github.com/INFORMSJoC/2024.0642},
-  note =          {Available for download at https://github.com/INFORMSJoC/2024.0642},
-}
-```
 
 ## Description
 This software provides the implementation of Iterated Inside Out, a new exact algorithm for solving the transportation problem.
