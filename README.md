@@ -26,7 +26,7 @@ The software also implements the [Shielding Method](https://doi.org/10.1007/s108
 This repository includes
 
 * the C++ source code of the algorithm, directory [src](src/),
-* the complete results of the paper experiments, directory [results](results/),
+* the complete results of the paper experiments are avalible in the IJOC repo. directory [IJOC-repo/results](https://github.com/INFORMSJoC/2024.0642/results/),
 * the program configuration files to replicate the paper experiments, directory [cfgs](cfgs/),
 * an SQL script for creating a relational database of the optimization results, directory [sql](sql/), and
 * a [makefile](Makefile) to compile the C++ code and generate the executable file.
